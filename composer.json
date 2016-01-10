@@ -17,5 +17,5 @@
       "App\\": "app/",
       "hbernaciak\\LaravelPiwikTracking\\": "laravel-piwik-tracking/src"
     }
-  },
+  }
 }
