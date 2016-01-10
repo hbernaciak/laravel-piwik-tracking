@@ -7,7 +7,6 @@
       "email": "hubi@hubi.pl"
     }
   ],
-  "require": {},
   "minimum-stability": "dev",
   "require": {
     "php": ">=5.3.0"
